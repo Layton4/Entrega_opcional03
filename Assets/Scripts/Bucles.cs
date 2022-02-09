@@ -53,9 +53,9 @@ public class Bucles : MonoBehaviour
         //Ejercicio5_while();
         //Ejercicio6_while();
         //Ejercicio7_while();
-        //Ejercicio8_while();
-        //Ejercicio9_while();
-        Ejercicio10_while();
+        //StartCoroutine(Ejercicio8_while());
+        //StartCoroutine(Ejercicio9_while());
+        StartCoroutine(Ejercicio10_while());
     }
 
     void Update()
